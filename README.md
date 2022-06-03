@@ -1,6 +1,10 @@
-# state_management_bloc
+# App State Management Example - Providers
 
-A new Flutter project.
+This is a basic example using the same base code of [App State Management With Singleton](https://github.com/miguelfagundez/StateManagementWithSingleton) about how we can control our app state using the provider package. This approach is another option if the app complexity is really high. Another good option is using bloc pattern.
+
+<p align = "center">
+<img src="/images/example.gif" width="250"> <img src="/images/screen01.png" width="250"> <img src="/images/screen02.png" width="250">
+</p>
 
 ## Getting Started
 
